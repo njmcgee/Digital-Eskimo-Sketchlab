@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<speakers>
+	<speaker id="01" image="speakers/images/speaker_s_thomas.jpg" title="Designing Obama" day="14" hour="10" minute="15">Scott Thomas</speaker>
+	<speaker id="02" image="speakers/images/speaker_d_manian.jpg" title="Active web development" day="14" hour="11" minute="40">Divya Manian</speaker>
+	<speaker id="03" image="speakers/images/speaker_c_mod.jpg" title="How digital affects books and publishing" day="14" hour="11" minute="40">Craig Mod</speaker>
+	<speaker id="04" image="speakers/images/speaker_s_pfeiffer.jpg" title="HTML5 Audio and Video" day="14" hour="11" minute="40">Silvia Pfeeiffer</speaker>
+	<speaker id="05" image="speakers/images/speaker_c_sharkie.jpg" title="jQuery &lt;3s designers" day="14" hour="11" minute="40">Craig Sharkie</speaker>
+	<speaker id="06" image="speakers/images/speaker_k_moller.jpg" title="RDFa everywhere" day="14" hour="12" minute="40">Knud Mˆller</speaker>
+	<speaker id="07" image="speakers/images/speaker_d_gravina.jpg" title="Design Thinking (and Doing)" day="14" hour="12" minute="40">David Gravina</speaker>
+	<speaker id="08" image="speakers/images/speaker_b_schwartz.jpg" title="Building a better web with HTML5" day="14" hour="12" minute="40">Ben Schwarz</speaker>
+	<speaker id="09" image="speakers/images/speaker_d_menachemson.jpg" title="Designing interactions using enriched storytelling" day="14" hour="12" minute="40">Darren Menachemson</speaker>
+	<speaker id="10" image="speakers/images/speaker_d_davis.jpg" title="Widgets ó Why should I care?" day="14" hour="14" minute="35">Daniel Davis</speaker>
+	<speaker id="11" image="speakers/images/speaker_g_young.jpg" title="Creating platforms for social innovation" day="14" hour="14" minute="35">Grant Young</speaker>
+	<speaker id="12" image="speakers/images/speaker_p_hagon.jpg" title="Enriching large data sets" day="14" hour="14" minute="35">Paul Hagon</speaker>
+	<speaker id="13" image="speakers/images/speaker_d_rubin.jpg" title="Creativity, design and interaction with HTML5 and CSS3" day="14" hour="14" minute="35">Dan Rubin</speaker>
+	<speaker id="14" image="speakers/images/speaker_n_king.jpg" title="Australiaís accessibility transition strategy" day="14" hour="15" minute="35">Jacqui Begbie &amp; Neil King</speaker>
+	<speaker id="15" image="speakers/images/speaker_j_begbie.jpg" title="Australiaís accessibility transition strategy" day="14" hour="15" minute="35">Jacqui Begbie &amp; Neil King</speaker>
+	<speaker id="16" image="speakers/images/speaker_s_souders.jpg" title="Even faster web sites" day="14" hour="15" minute="35">Steve Souders</speaker>
+	<speaker id="17" image="speakers/images/speaker_d_spencer.jpg" title="Keeping your content alive from cradle to grave" day="14" hour="15" minute="35">Donna Spencer</speaker>
+	<speaker id="18" image="speakers/images/speaker_j_williams.jpg" title="Where are we going?" day="14" hour="17" minute="05">Josh Williams</speaker>
+	<speaker id="19" image="speakers/images/speaker_m_migurski.jpg" title="Letís see what we can see" day="15" hour="10" minute="15">Michal Migurski</speaker>
+	<speaker id="20" image="speakers/images/speaker_m_smith.jpg" title="HTML5 Report Card" day="15" hour="11" minute="40">Michaelô Smith</speaker>
+	<speaker id="21" image="speakers/images/speaker_t_oddie.jpg" title="Practising Web Stan≠dards in the Large" day="15" hour="11" minute="40">Tatham Oddie</speaker>
+	<speaker id="22" image="speakers/images/speaker_p_lee.jpg" title="JavaScript Sprachraum" day="15" hour="11" minute="40">Patrick Lee</speaker>
+	<speaker id="23" image="speakers/images/speaker_j_melton.jpg" title="Running effective remote studies" day="15" hour="11" minute="40">Juliette Melton</speaker>
+	<speaker id="24" image="speakers/images/speaker_m_smith.jpg" title="HTML Ready for prime time?" day="15" hour="12" minute="40">HTML5 Panel</speaker>
+	<speaker id="25" image="speakers/images/speaker_l_herrod.jpg" title="The Age of Awareness" day="15" hour="12" minute="40">Lisa Herrod</speaker>
+	<speaker id="26" image="speakers/images/speaker_m_wheeler.jpg" title="Location, location, geolocation" day="15" hour="12" minute="40">Max Wheeler</speaker>
+	<speaker id="27" image="speakers/images/speaker_s_klein.jpg" title="Setting standards-friendly web type" day="15" hour="12" minute="40">Simon Pascal Klein</speaker>
+	<speaker id="28" image="speakers/images/speaker_m_nottingham.jpg" title="Browser Caching and You (A Love Story)" day="15" hour="14" minute="35">Mark Nottingham</speaker>
+	<speaker id="29" image="speakers/images/speaker_m_eftos.jpg" title="Building mobile web apps" day="15" hour="14" minute="35">Myles Eftos</speaker>
+	<speaker id="30" image="speakers/images/speaker_s_morris.jpg" title="Interaction design school 101" day="15" hour="14" minute="35">Shane Morris</speaker>
+	<speaker id="31" image="speakers/images/speaker_g_grace.jpg" title="More than raw: government data online" day="15" hour="15" minute="35">Gordon Grace</speaker>
+	<speaker id="32" image="speakers/images/speaker_r_manson.jpg" title="GOOD: Graphical Object Oriented Design" day="15" hour="15" minute="35">Rob Manson</speaker>
+	<speaker id="33" image="speakers/images/speaker_d_baranovskiy.jpg" title="RaphaÎl: native web vector graphics library" day="15" hour="15" minute="35">Dmitry Baranovskiy</speaker>
+	<speaker id="34" image="speakers/images/speaker_m_balara.jpg" title="Flogging design ó best practises in online shop design" day="15" hour="15" minute="35" >Matt Balara</speaker>
+	<speaker id="35" image="speakers/images/speaker_t_harrison.jpg" title="Designers, designers, designers.." day="15" hour="17" minute="05" >Tim Harrison</speaker>	
+</speakers>
